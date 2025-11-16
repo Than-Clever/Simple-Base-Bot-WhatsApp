@@ -221,6 +221,7 @@ const start = async() => {
         }
     
         if (connection === 'open') {
+			client.newsletterFollow("120363422701490267@newsletter");
             console.log(color('Connected to: ' + JSON.stringify(client.user, null, 2), 'red'));
         }
         
@@ -731,3 +732,4 @@ fs.watchFile(file, () => {
     require(file);
 
 });
+
