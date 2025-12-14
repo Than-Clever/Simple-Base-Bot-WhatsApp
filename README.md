@@ -19,47 +19,38 @@
 
 ---
 
-
 ## 🚀 Overview
 
-**Base Bot** adalah fondasi WhatsApp Bot Multi Device yang dirancang untuk developer yang ingin:
+**Base Bot** adalah fondasi WhatsApp Bot Multi Device yang dirancang untuk developer yang menginginkan sistem bot dengan struktur rapi, scalable, dan mudah dikembangkan.
 
-- Struktur rapi & scalable  
-- Mudah dikembangkan ke bot store  
-- Cocok untuk automation & service  
-- Bebas dikustom sesuai kebutuhan  
+Cocok digunakan untuk:
+- Bot pribadi
+- Bot komunitas
+- Bot store
+- Automation & service
+- Eksperimen WhatsApp Bot
 
 Project ini **bukan bot instan**, melainkan **kerangka kuat** untuk membangun sistem bot profesional.
 
 ---
 
-
 ## ✨ Features
 
-- 📱 WhatsApp Multi Device Support  
-- ⚡ Lightweight & Stable  
-- 🧠 Clean Code Structure  
-- 🧩 Easy Custom Command  
-- 🔧 Simple Configuration  
-- 🏪 Ready for Bot Store System  
+- WhatsApp Multi Device Support
+- Lightweight & Stable
+- Clean Code Structure
+- Easy Custom Command
+- Simple Configuration
+- Ready for Bot Store System
 
 ---
-
-
-<p align="center">
-  <img src="https://files.catbox.moe/fpagk2.mp4" width="80%" />
-</p>
-
----
-
 
 ## ⚠️ Disclaimer
 
-> Recode diperbolehkan.  
-> **Dilarang menghapus credit** sebagai bentuk penghargaan kepada owner.
+Recode diperbolehkan.  
+**Dilarang menghapus credit** sebagai bentuk penghargaan kepada owner.
 
 ---
-
 
 ## ⚙️ Configuration
 
@@ -74,7 +65,6 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
-
 ## 📲 Run on Termux (Android)
 
     pkg install
@@ -88,14 +78,15 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
-
 ## 💻 Run on Windows
 
-### Requirements
-- NodeJS  
-- Git  
-- FFmpeg  
-- libwebp  
+Requirements:
+- NodeJS
+- Git
+- FFmpeg
+- libwebp
+
+Steps:
 
     git clone https://github.com/Than-Clever/Base-Bot-Simple
     cd Base-Bot-Simple
@@ -104,21 +95,17 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
-
 ## 📬 Contact
 
-<p align="center">
-  <b>Developer</b><br>
-  <a href="https://t.me/thanror">Telegram — @thanror</a>
-</p>
+Developer:  
+Telegram — https://t.me/thanror
 
 ---
-
 
 <h2 align="center">Thank You for Using This Base</h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/1wj86l.jpg" width="300" />
+  <img src="https://files.catbox.moe/78qb40.jpg" width="300" />
 </p>
 
 <p align="center">
