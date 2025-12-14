@@ -113,7 +113,7 @@ Edit file `config.js` sebelum menjalankan bot:
 <!-- ========================= -->
 ## 💻 Run on Windows
 
-### Requirements
+## Requirements
 - NodeJS  
 - Git  
 - FFmpeg  
