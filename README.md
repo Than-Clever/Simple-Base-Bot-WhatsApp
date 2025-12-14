@@ -6,22 +6,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Than-Clever">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&lines=WhatsApp+Multi+Device+Base+Bot;Designed+for+Developers;Fast+Setup+%7C+Clean+Structure;Build+Your+Own+Bot+Store" />
-  </a>
+  WhatsApp Multi Device Base • Built for Developers • Ready to Scale
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BASE--BOT-PREMIUM-00e5ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MULTI--DEVICE-WHATSAPP-1da1f2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/READY--TO--BUILD-success?style=for-the-badge" />
+  Repository: <a href="https://github.com/Than-Clever">github.com/Than-Clever</a>
 </p>
 
 ---
 
 ## 🚀 Overview
 
-**Base Bot** adalah fondasi WhatsApp Bot Multi Device yang dirancang untuk developer yang menginginkan sistem bot dengan struktur rapi, scalable, dan mudah dikembangkan.
+**Base Bot** adalah fondasi WhatsApp Bot Multi Device yang dirancang untuk developer yang menginginkan sistem bot dengan struktur rapi, stabil, dan mudah dikembangkan.
 
 Cocok digunakan untuk:
 - Bot pribadi
@@ -97,16 +93,14 @@ Steps:
 
 ## 📬 Contact
 
-Developer:  
-Telegram — https://t.me/thanror
+<p align="center">
+  <b>Developer Contact</b><br><br>
+  <a href="https://t.me/thanror">💬 Chat on Telegram — @thanror</a>
+</p>
 
 ---
 
 <h2 align="center">Thank You for Using This Base</h2>
-
-<p align="center">
-  <img src="https://files.catbox.moe/78qb40.jpg" width="300" />
-</p>
 
 <p align="center">
   <i>Built as a foundation. Scaled without limits.</i>
